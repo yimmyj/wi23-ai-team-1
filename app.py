@@ -112,7 +112,7 @@ def run():
         # Display the toxicity score
         st.write('')
         st.subheader('Toxicity Score')
-        st.write((predictions[0][0] + 'Obscene': predictions[0][2] + 'Insult': predictions[0][4]) / 3)
+        st.write((predictions[0][0] + predictions[0][2] + predictions[0][4]) / 3)
 
 
 if __name__ == "__main__":
