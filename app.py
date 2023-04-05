@@ -112,7 +112,7 @@ def run():
         # Display the toxicity score
         st.write('')
         st.subheader('Toxicity Score')
-        st.write(np.avg(predictions))
+        st.write(np.mean(predictions))
 
 
 if __name__ == "__main__":
