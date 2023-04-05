@@ -97,7 +97,7 @@ def run():
        # df = pd.DataFrame({'Toxic': predictions[0][0]}, index=[0])
         df = pd.DataFrame({'Toxic': predictions[0][0],
                            'Obscene': predictions[0][2],
-                           'Insult': predictions[0][4],, index=[0])
+                           'Insult': predictions[0][4], index=[0])
 
         # Display the predictions
         st.write('')
