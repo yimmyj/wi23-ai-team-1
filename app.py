@@ -127,6 +127,8 @@ def run():
         # user_input = pd.DataFrame({'comment_text': [comment]})
 
         # Make predictions
+        st.write("Predicting... this may take some time")
+        
         predictions = predict_toxicity(comment)
 
         # Create a dataframe with the predictions
