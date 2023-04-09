@@ -1,6 +1,6 @@
 # wi23-ai-team-1
 
-[If possible, insert some sort of preview or teaser to reel in your audience!]
+[View our project!](https://yimmyj-wi23-ai-team-1-app-lglnjp.streamlit.app/)
 
 ## Table of Contents:
 - [1. Resources](https://github.com/acmucsd-projects/wi23-ai-team-1/blob/main/README.md#1-resources)
